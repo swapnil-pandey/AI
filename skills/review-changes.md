@@ -1,5 +1,5 @@
 ---
-name: change-review
+name: review-changes
 description: Review committed and uncommitted changes on the current branch against an optional base branch. Invoke with /change-review [base-branch]; defaults to master.
 disable-model-invocation: true
 ---
