@@ -4,7 +4,7 @@ description: Review committed and uncommitted changes on the current branch agai
 disable-model-invocation: true
 ---
 
-# Change review
+# Review Changes
 
 Review only. Do not edit files, commit, reset, switch branches, push, build, or run tests.
 
